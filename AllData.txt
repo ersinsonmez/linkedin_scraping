@@ -1,0 +1,700 @@
+﻿user1;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Flight Performance Engineer;Ankara, Ankara, Türkiye
+user2;Boeing;Orta Doğu Teknik Üniversitesi ;Procurement Field Represent;Ankara, Ankara, Türkiye
+user3;Boeing;Istanbul Technical University;Model-Based Systems Engineer;İstanbul, Türkiye
+user4;Collins Aerospace;Hacettepe University;Software Engineer;Türkiye
+user5;Boeing;MIP Politecnico di Milano;Lead Structural and Payload Design Engineer;İstanbul, İstanbul, Türkiye
+user6;Lilium;Başkent Üniversitesi;Senior Systems Engineer;Munich, Bavyera, Almanya
+user7;Leonardo;Hacettepe Üniversitesi;Senior Mechanical Design Engineer;Ankara, Türkiye
+user8;Volocopter GmbH;İstanbul Teknik Üniversitesi;Flight Control Law Engineer;Baden-Württemberg, Almanya
+user9;Collins Aerospace;Orta Doğu Teknik Üniversitesi;Senior Software Engineer - Product Owner;Heidelberg, Baden-Württemberg, Almanya
+user10;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user11;Airbus Defence and Space Turkey;Orta Doğu Teknik Üniversitesi ;Managing Director;Ankara, Türkiye
+user12;Collins Aerospace;Orta Doğu Teknik Üniversitesi ;Software Engineer;Türkiye
+user13;Lilium;Orta Doğu Teknik Üniversitesi ;Senior Load and Aeroelasticity Engineer;Ankara, Ankara, Türkiye
+user14;Lilium;Gazi Üniversitesi;Principal Systems Engineer;Münih, Bavyera, Almanya
+user15;Airbus;Ankara Yıldırım Beyazıt Üniversitesi;Structural;Ankara, Türkiye
+user16;Airbus;Orta Doğu Teknik Üniversitesi ;Landing Gear System Engineer;Manching, Bavyera, Almanya
+user17;ASML;Yıldız Teknik Üniversitesi;#NAME?;Eindhoven, Kuzey Brabant, Hollanda
+user18;Collins Aerospace;Orta Doğu Teknik Üniversitesi ;Product Owner;Mannheim, Baden-Württemberg, Almanya
+user19;ASML;Orta Doğu Teknik Üniversitesi;Team Lead;Eindhoven, Kuzey Brabant, Hollanda
+user20;Boeing;Gannon University;Software Team Lead;St. Louis
+user21;Volocopter GmbH;Orta Doğu Teknik Üniversitesi;Aircraft Integr;Ankara, Ankara, Türkiye
+user22;Lilium;Hacettepe Üniversitesi;Supply Chain Expert -;Münih, Bavyera, Almanya
+user23;BAE Systems;Orta Doğu Teknik Üniversitesi ;Engineering Project Manager;Rochester, İngiltere, Birleşik Krallık
+user24;ASML;Istanbul Technical University;Software Designer;Kuzey Brabant, Hollanda
+user25;Boeing;Orta Doğu Teknik Üniversitesi;Globaliz;Ankara, Ankara, Türkiye
+user26;ASML;Orta Doğu Teknik Üniversitesi ;Metallurgical and M;Eindhoven, Kuzey Brabant, Hollanda
+user27;Airbus;Orta Doğu Teknik Üniversitesi ;M.Sc. Mechanical Engineer;Münih, Bavyera, Almanya
+user28;Collins Aerospace;Orta Doğu Teknik Üniversitesi;Avionics Certific;Almanya
+user29;L3Harris Technologies;Bilkent University;Director of Business Development & Sales;İstanbul, Türkiye
+user30;Lilium;Orta Doğu Teknik Üniversitesi;Deputy Head of Design & Aerostructures;Münih, Bavyera, Almanya
+user31;Lilium;Orta Doğu Teknik Üniversitesi;Deputy Head of Airworthiness;Bavyera, Almanya
+user32;Boeing;Georgia Institute of Technology;Model-Based Systems Engineer;Bavyera, Almanya
+user33;ASML;Gazi Üniversitesi;Software Engineer;Türkiye
+user34;ASML;Orta Doğu Teknik Üniversitesi;PO;Ankara, Ankara, Türkiye
+user35;Lilium;Doğu Akdeniz Üniversitesi;Avionics Software Engineer;Wessling, Bavyera, Almanya
+user36;Volocopter GmbH;Istanbul Technical University;Aircraft System Engineer;Bruchsal, Baden-Württemberg, Almanya
+user37;Airbus;Cranfield University;System Safety Engineer;Toulouse Metropol Bölgesi
+user38;ASML;Gazi Üniversitesi;Industrializ;Ankara, Ankara, Türkiye
+user39;ASML;Hacettepe Üniversitesi;Senior Embedded Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user40;Collins Aerospace;Karadeniz Teknik Üniversitesi;Senior Software Engineer;Heidelberg, Baden-Württemberg, Almanya
+user41;Airbus;Orta Doğu Teknik Üniversitesi ;ZEROe Fire Protection System Integr;Toulouse, Occitanie, Fransa
+user42;Volocopter GmbH;Orta Doğu Teknik Üniversitesi;Aircraft Thermal Engineer;Karlsruhe Bölgesi
+user43;Lilium;Orta Doğu Teknik Üniversitesi;Avionics and Autonomy Systems Engineer;Münih, Bavyera, Almanya
+user44;Lilium;ITPS;LFTE;Münih, Bavyera, Almanya
+user45;Animal Dynamics Limited;Orta Doğu Teknik Üniversitesi ;Senior Control Systems Engineer;Oxford, İngiltere, Birleşik Krallık
+user46;ASML;TOBB University of Economics and Technology (TOBB ETU);Senior Risk Specialist;Türkiye
+user47;ASML;Bilkent Üniversitesi;Software Engineer;Hollanda
+user48;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Manufacturing Engineer | Industrializ;Almanya
+user49;Lilium;Anadolu Üniversitesi;Senior Software Engineer for EPSL -;Münih Metropol Bölgesi
+user50;Lilium;Orta Doğu Teknik Üniversitesi;Design Engineer;Münih, Bavyera, Almanya
+user51;ASML;Eindhoven University of Technology;Applic;Eindhoven, Kuzey Brabant, Hollanda
+user52;Lilium;Orta Doğu Teknik Üniversitesi;Aerodynamicist;Germering, Bavyera, Almanya
+user53;ASML;Orta Doğu Teknik Üniversitesi;Senior Systems Engineer;Hollanda
+user54;ASML;Orta Doğu Teknik Üniversitesi;Industrial Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user55;Boeing;UCLA Extension;Structural and Payload Design Engineer -;İstanbul, İstanbul, Türkiye
+user56;Volocopter GmbH;Orta Doğu Teknik Üniversitesi;Senior System Engineer - Rotor;Bruchsal, Baden-Württemberg, Almanya
+user57;Lilium;Politecnico di Torino;Senior HIL Engineer;Münih, Bavyera, Almanya
+user58;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Senior Mechanical Design Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user59;Airbus;Yildiz Technical University;System Engineer;Hamburg, Hamburg, Almanya
+user60;Thales;Bilkent Üniversitesi;Business Development;Ankara, Ankara, Türkiye
+user61;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Manufacturing and Equipment Engineer;Ankara, Türkiye
+user62;Volocopter GmbH;Gazi Üniversitesi;Manufacturing Engineer - Final Assembly Line;Heidelberg, Baden-Württemberg, Almanya
+user63;ASML;Gazi Üniversitesi;Lead Design Engineer;Ankara, Ankara, Türkiye
+user64;Volocopter GmbH;Bilkent Üniversitesi;Quality Engineer;Almanya
+user65;ASML;Hacettepe University;Systems Engineer;Türkiye
+user66;Boeing;Orta Doğu Teknik Üniversitesi ;Software Engineer;İzmir, Türkiye
+user67;Volocopter GmbH;Bilkent Üniversitesi;Avionics System Engineer;Walldorf, Baden-Württemberg, Almanya
+user68;Boeing;İstanbul Teknik Üniversitesi;Structural Analysis Engineer;Türkiye
+user69;Airbus;Gazi University;Aircraft Coordin;Hamburg Bölgesi
+user70;Volocopter GmbH;Orta Doğu Teknik Üniversitesi;Structural Design Engineer;Karlsruhe, Baden-Württemberg, Almanya
+user71;ASML;Orta Doğu Teknik Üniversitesi ;Sn. Configur;Eindhoven, Kuzey Brabant, Hollanda
+user72;Leonardo;Bozok Üniversitesi;Financial Reporting Specialist;Ankara, Türkiye
+user73;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical design engineer;Ankara, Türkiye
+user74;Lilium;Orta Doğu Teknik Üniversitesi;Design Engineer - Fuselage Structure;Münih, Bavyera, Almanya
+user75;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Flight Mechanics Architect;Bruchsal, Baden-Württemberg, Almanya
+user76;ASML;Yildiz Technical University;Product Change Leader | Lead Engineer | Project Management | Configur;Hollanda
+user77;Leonardo;Middle East Technical University;Principal Flight Mechanics Engineer;Birleşik Krallık
+user78;Collins Aerospace;Istanbul Technical University;Engineering Manager;İstanbul, Türkiye
+user79;ASML;Middle East Technical University;Mechanical Design Engineer;Hollanda
+user80;Leonardo;Gazi Üniversitesi;Mechanical Engineer;Ankara, Türkiye
+user81;Boeing;University of Bath;Structural and Payload Design Engineer;İstanbul, Türkiye
+user82;Boeing;Istanbul Technical University;Structural & Payload Design Engineer;İstanbul, Türkiye
+user83;ASML;Bilkent University;Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user84;ASML;Hacettepe Üniversitesi;Software Engineer;Ankara, Türkiye
+user85;Boeing;İstanbul Teknik Üniversitesi;Systems Engineer;Selçuklu, Konya, Türkiye
+user86;ASML;Middle East Technical University;H&T Design and Development;Eindhoven, Kuzey Brabant, Hollanda
+user87;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;M;Ankara, Türkiye
+user88;Boeing;Istanbul Technical University;Structural & Payload Design Engineer;İstanbul, İstanbul, Türkiye
+user89;Volocopter GmbH;TOBB Ekonomi ve Teknoloji Üniversitesi;Aerodynamic Simul;Bruchsal, Baden-Württemberg, Almanya
+user90;Airbus;Orta Doğu Teknik Üniversitesi;CFRP Design Engineer -  Aerostructures GmbH;Almanya
+user91;Volocopter GmbH;İstanbul Teknik Üniversitesi;Electrical Propulsion System Test Engineer;Almanya
+user92;ASML;Middle East Technical University;Senior Software Engineer;Ankara, Türkiye
+user93;Boeing;Istanbul Technical University;Structural and Payload Lead Design Engineer;İstanbul, Türkiye
+user94;Boeing;Istanbul Technical University;Structures Fleet Support Engineer;Türkiye
+user95;Lilium;Orta Doğu Teknik Üniversitesi;Senior Verific;Münih, Bavyera, Almanya
+user96;Boeing;Istanbul Technical University;Structural and Payload Design Engineer;İstanbul, Türkiye
+user97;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Compliance Verific;Ankara, Ankara, Türkiye
+user98;Sikorsky;Maltepe University;Leading complex global Industrializ;Ankara, Türkiye
+user99;Boeing;Technische Universität Berlin;Mechanical Engineer;İstanbul, Türkiye
+user100;Boeing;Marmara Üniversitesi;Electrical Engineer;İstanbul, Türkiye
+user101;Lockheed Martin;University of Bridgeport;Program Quality;Türkiye
+user102;Collins Aerospace;Anadolu Üniversitesi;Customer Service Engineer;İstanbul, Türkiye
+user103;Boeing;İstanbul Teknik Üniversitesi;Structures Fleet Support Engineer;İstanbul, Türkiye
+user104;Lilium;Orta Doğu Teknik Üniversitesi;Supply Chain Expert;Ankara, Türkiye
+user105;Lilium;Bilkent University;Independent System Monitoring;Münih, Bavyera, Almanya
+user106;Boeing;Istanbul Technical University;Systems Engineer;Türkiye
+user107;Airbus;İstanbul Teknik Üniversitesi;--;İstanbul, Türkiye
+user108;ASML;Orta Doğu Teknik Üniversitesi;Industrializ;Hollanda
+user109;ASML;İstanbul Teknik Üniversitesi;Precise Engineering l Project Management l R&D Management l Design Engineer l System Implement;İstanbul, Türkiye
+user110;Boeing;Lamar University;Systems Engineer;İstanbul, İstanbul, Türkiye
+user111;Boeing;Gebze Teknik Üniversitesi;Structures Fleet Support Engineer-;İstanbul, Türkiye
+user112;Boeing;Uludağ Üniversitesi;Structural & Payload Design Engineer @;Türkiye
+user113;BOMBARDIER;Middle East Technical University Northern Cyprus Campus;Mechanical Design Engineer;Ankara, Türkiye
+user114;Collins Aerospace;cappadocia vocational collage;Composite Inspector;İstanbul, Türkiye
+user115;ASML;Orta Doğu Teknik Üniversitesi;Software Engineer;Ankara, Ankara, Türkiye
+user116;Boeing;Middle East Technical University;M;Türkiye
+user117;ASML;Orta Doğu Teknik Üniversitesi ;Sr. Logistics Supply Chain Manager;Ankara, Ankara, Türkiye
+user118;Airbus;Universidad Carlos III de Madrid;Air Supply System Engineer in;İstanbul, Türkiye
+user119;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;D&E Cross Sector Improvement Engineer;Ankara, Ankara, Türkiye
+user120;ASML;Ankara Üniversitesi;Physicist@;Ankara, Türkiye
+user121;Sikorsky;Middle East Technical University;Deputy Program Manager;Türkiye
+user122;Boeing;Sabancı Business School;Aeronautical Engineer & Supplier Management;İstanbul, İstanbul, Türkiye
+user123;ASML;İstanbul Teknik Üniversitesi;Industrializ;Ankara, Ankara, Türkiye
+user124;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Digital Design Engineer;İstanbul, Türkiye
+user125;Lilium;Orta Doğu Teknik Üniversitesi;Component Engineer in Engine System;İstanbul, İstanbul, Türkiye
+user126;Boeing;Orta Doğu Teknik Üniversitesi;Aerospace Structures Mechanical Design Engineer;Türkiye
+user127;Thales;Orta Doğu Teknik Üniversitesi ;Technical Consultancy and Delivery Manager;Ankara, Ankara, Türkiye
+user128;Tesla;Middle East Technical University;Mechanical Design Engineer - High Voltage;Ankara, Türkiye
+user129;ASML;Bahcesehir University;Senior Mechanical Design Engineer || Full time design engineer || Land;İzmir, İzmir, Türkiye
+user130;Tesla;Technische Universität Berlin;Studium an der Hochschule Technische Universität Berlin;Berlin, Berlin, Almanya
+user131;Airbus;Orta Doğu Teknik Üniversitesi ;Fire Protection System Designer;Toulouse, Occitanie, Fransa
+user132;ASML;Atılım Üniversitesi;Lead Mechanical Designer;Eindhoven, Kuzey Brabant, Hollanda
+user133;ASML;Cracow University of Technology;System Industrializ;Hollanda
+user134;Collins Aerospace;Orta Doğu Teknik Üniversitesi ;Senior Principal Test Engineer;Plymouth, İngiltere, Birleşik Krallık
+user135;ASML;Orta Doğu Teknik Üniversitesi ;Quality Management System Auditor;Eindhoven, Kuzey Brabant, Hollanda
+user136;ASML;Middle East Technical University;Product Owner;Eindhoven, Kuzey Brabant, Hollanda
+user137;Airbus;University of Michigan;EI OAD  Icing Network;Fransa
+user138;ASML;Orta Doğu Teknik Üniversitesi;Software Test Architect as;Eindhoven, Kuzey Brabant, Hollanda
+user139;Lilium;Orta Doğu Teknik Üniversitesi ;Senior Airworthiness and Certific;Almanya
+user140;ASML;Orta Doğu Teknik Üniversitesi ;Fastener Component Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user141;ASML;Gazi Üniversitesi;Manufacturing Quality Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user142;Volocopter GmbH;Orta Doğu Teknik Üniversitesi;Aircraft Integr;Karlsruhe, Baden-Württemberg, Almanya
+user143;ASML;Yıldız Teknik Üniversitesi ;Lean Change Agent;Eindhoven, Kuzey Brabant, Hollanda
+user144;ASML;Middle East Technical University;EUV System Industrialis;Veldhoven, Kuzey Brabant, Hollanda
+user145;Volocopter GmbH;İstanbul Teknik Üniversitesi;System Safety Engineer -;Karlsruhe Bölgesi
+user146;Volocopter GmbH;Middle East Technical University;Product Owner - Airframe;Karlsruhe Bölgesi
+user147;Airbus;Istanbul Technical University;Stress Engineer;Almanya
+user148;Airbus;İstanbul Teknik Üniversitesi;Senior F&DT Engineer;Chester, İngiltere, Birleşik Krallık
+user149;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Airworthiness Engineer;Heidelberg, Baden-Württemberg, Almanya
+user150;ASML;Orta Doğu Teknik Üniversitesi ;Main Delivery Owner;Eindhoven, Kuzey Brabant, Hollanda
+user151;Airbus;Gazi Üniversitesi;Landing Gear Flight Physics Integr;Bristol, İngiltere, Birleşik Krallık
+user152;ASML;Strayer University;Senior Supplier Quality Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user153;ASML;Orta Doğu Teknik Üniversitesi ;Project Management;Veldhoven, Kuzey Brabant, Hollanda
+user154;ASML;Gazi Üniversitesi;Lead Engineer @;Veldhoven, Kuzey Brabant, Hollanda
+user155;ASML;Orta Doğu Teknik Üniversitesi ;Project Manager - System Industrializ;Veldhoven, Kuzey Brabant, Hollanda
+user156;ASML;Orta Doğu Teknik Üniversitesi ;Facilities Layout Project Lead;Eindhoven, Kuzey Brabant, Hollanda
+user157;Lilium;Middle East Technical Univesity;Design;Wessling, Bavyera, Almanya
+user158;ASML;Orta Doğu Teknik Üniversitesi ;Product Change Leader;Hollanda
+user159;Airbus;Udacity;A321 XLR INTERFACE & PRA LEAD STRESS;Bristol, Birleşik Krallık
+user160;ASML;Politecnico di Milano;Mechanical Design Engineer;Hollanda
+user161;Boeing;Embry-Riddle Aeronautical University;Engineer;Birleşik Devletler
+user162;Leonardo;Çankırı Karatekin Üniversitesi;Şirketinde Test Teknisyeni;Keçiören, Ankara, Türkiye
+user163;ASML;Fontys Hogescholen;HR Represent;Eindhoven Area
+user164;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user165;Airbus;Orta Doğu Teknik Üniversitesi;Structural Composite;Wichita, Kansas, Birleşik Devletler
+user166;ASML;Orta Doğu Teknik Üniversitesi ;Senior Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user167;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user168;ASML;Orta Doğu Teknik Üniversitesi ;EUV MCI Project Leader;Eindhoven, Kuzey Brabant, Hollanda
+user169;ASML;Yildiz Technical University;Software Engineer;Hollanda
+user170;ASML;Orta Doğu Teknik Üniversitesi;Software Engineer;Hollanda
+user171;ASML;Orta Doğu Teknik Üniversitesi ;senior software engineer;Eindhoven, Kuzey Brabant, Hollanda
+user172;Airbus;Universität zu Lübeck;Working Student;Ingolstadt, Bavyera, Almanya
+user173;Thales;Bilkent University;C;Hengelo, Overijssel, Hollanda
+user174;ASML;Middle East Technical University;Senior Design Engineer;Türkiye
+user175;ASML;Yildiz Technical University;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user176;Lilium;Orta Doğu Teknik Üniversitesi;Senior Mass Properties Engineer;Almanya
+user177;Lilium;Yıldız Teknik Üniversitesi;Software Development Engineer - Model-Based Design;Münih Metropol Bölgesi
+user178;ASML;İstanbul Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user179;ASML;Orta Doğu Teknik Üniversitesi;EUV System Qualific;Ankara, Ankara, Türkiye
+user180;ASML;Orta Doğu Teknik Üniversitesi;Software Developer;Eindhoven, Kuzey Brabant, Hollanda
+user181;Lilium;Gazi University;Senior Test and Measurement Engineer;Germering, Bavyera, Almanya
+user182;ASML;Orta Doğu Teknik Üniversitesi ;Senior SW Developer;Eindhoven, Kuzey Brabant, Hollanda
+user183;ASML;Orta Doğu Teknik Üniversitesi ;Embedded Software Engineer;Hollanda
+user184;ASML;Hacettepe University;Software Engineer;Hollanda
+user185;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user186;ASML;Gebze Technical University;Senior Electronics Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user187;ASML;TOBB ETU;Software Design Engineer;Eersel, Kuzey Brabant, Hollanda
+user188;Lilium;Eskişehir Osmangazi Üniversitesi;Test Engineer - Environmental Tests;Münih Metropol Bölgesi
+user189;ASML;Middle East Technical University;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user190;ASML;Orta Doğu Teknik Üniversitesi ;Lead Engineer D&E MC SRC E IRDL & HPDL;Ankara, Ankara, Türkiye
+user191;Lilium;Hacettepe Üniversitesi;Supplier Quality Manager;Münih, Bavyera, Almanya
+user192;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user193;Boeing;Anadolu Üniversitesi;Who cares titles;Türkiye
+user194;ASML;Yildiz Technical University;Software Engineering Consultant;Eindhoven, Kuzey Brabant, Hollanda
+user195;ASML;Orta Doğu Teknik Üniversitesi ;Software Design Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user196;ASML;National Technical University of Ukraine 'Kyiv Polytechnic Institute';Senior Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user197;ASML;Bilkent University;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user198;ASML;Bilkent University;Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user199;ASML;Çanakkale Onsekiz Mart Üniversitesi;Senior Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user200;Collins Aerospace;Bilkent Üniversitesi;Embedded Software Engineer;Heidelberg, Baden-Württemberg, Almanya
+user201;Volocopter GmbH;Ankara University;🔋 Head of Powertrain | Leading HV B;Karlsruhe, Baden-Württemberg, Almanya
+user202;Lilium;Orta Doğu Teknik Üniversitesi ;Systems Engineer;Münih, Bavyera, Almanya
+user203;Volocopter GmbH;İstanbul Teknik Üniversitesi;Aerospace Structural Design Engineer;Türkiye
+user204;Airbus;Fraunhofer Institute for Manufacturing Technology and Advanced Materials - IFAM;M;Bremen, Bremen, Almanya
+user205;Boeing;University of North Carolina Wilmington;Talent Management Specialist;Havelock, Kuzey Karolina, Birleşik Devletler
+user206;Lilium;TOBB Ekonomi ve Teknoloji Üniversitesi;Verific;Münih, Bavyera, Almanya
+user207;ASML;Orta Doğu Teknik Üniversitesi ;EUV Source Laser Metrology -;Eindhoven, Kuzey Brabant, Hollanda
+user208;Volocopter GmbH;Bilkent Üniversitesi;Senior Autonomous Flight Control Engineer;Münih, Bavyera, Almanya
+user209;ASML;Middle East Technical University;Software Engineer;Hollanda
+user210;Lockheed Martin;University of Central Arkansas;Staff AI Machine Learning Engineer @;San Francisco Bay Bölgesi
+user211;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Configur;Karlsruhe, Baden-Württemberg, Almanya
+user212;ASML;Orta Doğu Teknik Üniversitesi ;Software Design Engineer;Hollanda
+user213;Volocopter GmbH;Orta Doğu Teknik Üniversitesi;Aerospace Engineer;Karlsdorf, Baden-Württemberg, Almanya
+user214;Volocopter GmbH;Gazi University;Development Quality Assurance Engineer;Karlsruhe, Baden-Württemberg, Almanya
+user215;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user216;Thales;Bilkent Üniversitesi;Systems Engineer;Brüksel Metropol Bölgesi
+user217;ASML;Orta Doğu Teknik Üniversitesi;Software Engineer;Hollanda
+user218;ASML;Özyeğin Üniversitesi;Sourcing Lead;Eindhoven, Kuzey Brabant, Hollanda
+user219;ASML;University of Michigan;#NAME?;Eindhoven, Kuzey Brabant, Hollanda
+user220;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Waalre, Kuzey Brabant, Hollanda
+user221;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Flight Control Development Engineer;Münih, Bavyera, Almanya
+user222;ASML;Luiss Guido Carli University;Ambitious and motiv;Utrecht, Utrecht, Hollanda
+user223;ASML;Boğaziçi University;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user224;ASML;Hacettepe Üniversitesi;Senior Software Engineer;Türkiye
+user225;Airbus DS GmbH;Hacettepe University;System Engineer @ AIRBUS;Immenstaad, Baden-Württemberg, Almanya
+user226;Airbus Defence and Space;University Pierre et Marie Curie-Paris-France;EMC Engineer;Immenstaad, Baden-Württemberg, Almanya
+user227;Boeing;Gazi University;Ballistic Composite Engineer;Gdansk Metropol Bölgesi
+user228;ASML;Orta Doğu Teknik Üniversitesi ;Design Engineer -;Eindhoven, Kuzey Brabant, Hollanda
+user229;Lilium;Bilkent Üniversitesi;BMS Software Engineer;Almanya
+user230;ASML;Eastern Mediterranean University;Software Developer;Eindhoven, Kuzey Brabant, Hollanda
+user231;Lilium;Rheinisch-Westfälische Technische Hochschule Aachen;Engineering Manager - Cell Technologies;Münih, Bavyera, Almanya
+user232;Volocopter GmbH;Boğaziçi Üniversitesi;Prototyping Manager - Volodrone;Münih, Bavyera, Almanya
+user233;ASML;Atılım Üniversitesi;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user234;ASML;Orta Doğu Teknik Üniversitesi ;Senior Software Engineer Technical Lead;Eindhoven, Kuzey Brabant, Hollanda
+user235;Collins Aerospace;Middle East Technical University;Principal Systems Engineer;Heidelberg, Baden-Württemberg, Almanya
+user236;ASML;Bilkent Üniversitesi ;Software Engineer;Amsterdam, Kuzey Hollanda, Hollanda
+user237;ASML;Middle East Technical University;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user238;Lilium;Middle East Technical University;M;Münih, Bavyera, Almanya
+user239;ASML;Bilkent University;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user240;ASML;Friedrich-Alexander-Universität Erlangen-Nürnberg;Group Lead;Eindhoven, Kuzey Brabant, Hollanda
+user241;Tesla;Orta Doğu Teknik Üniversitesi ;Senior Engineering Program Manager;San Francisco Bay Bölgesi
+user242;ASML;Beihang University;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user243;Volocopter GmbH;Middle East Technical University;Verific;Heidelberg, Baden-Württemberg, Almanya
+user244;ASML;Orta Doğu Teknik Üniversitesi ;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user245;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;CAD Designer;Karlsruhe, Baden-Württemberg, Almanya
+user246;ASML;Orta Doğu Teknik Üniversitesi;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user247;ASML;Orta Doğu Teknik Üniversitesi ;Senior Embedded Software Engineer;Veldhoven, Kuzey Brabant, Hollanda
+user248;Luxoft/ASML;Middle East Technical University;Senior Software Developer;Eindhoven, Kuzey Brabant, Hollanda
+user249;Lockheed Martin;Embry-Riddle Aeronautical University;Systems Engineer;Parker, Colorado, Birleşik Devletler
+user250;Lilium;Istanbul Technical University;Design Engineer;Münih, Bavyera, Almanya
+user251;ASML;Orta Doğu Teknik Üniversitesi ;Senior Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user252;ASML;İstanbul Teknik Üniversitesi;Software Engineer;Hollanda
+user253;Airbus;Boğaziçi University;Structural Engineer;Hamburg, Hamburg, Almanya
+user254;ASML;Boğaziçi University;Configur;Eindhoven, Kuzey Brabant, Hollanda
+user255;Airbus;Orta Doğu Teknik Üniversitesi ;F;Hamburg Bölgesi
+user256;ASML;Bilkent University;Technical Test Autom;Eindhoven, Kuzey Brabant, Hollanda
+user257;Bombardier Aerospace;ITS;--;Toronto, Ontario, Kanada
+user258;ASML;University of Pretoria;Lead Engineer;Hollanda
+user259;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user260;ASML;Orta Doğu Teknik Üniversitesi;Senior Embedded Software Design Engineer & Assembly Integr;Eindhoven, Kuzey Brabant, Hollanda
+user261;ASML;Orta Doğu Teknik Üniversitesi ;Technical Lead;Hollanda
+user262;ASML;Erciyes University;Software Design Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user263;ASML;Northeastern University;Embedded Software Design Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user264;Airbus;RWTH Aachen University;Supply Chain Manager | Project Manager | Scrum Master | Aerospace | Avi;Hamburg Bölgesi
+user265;Airbus;Finkenwerder;Strukturmechaniker bei;Hamburg Bölgesi
+user266;ASML;Ege Üniversitesi;Software Engineer;Hollanda
+user267;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Global Upgrade & Reloc;Hollanda
+user268;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, Kuzey Brabant, Hollanda
+user269;Tesla;Orta Doğu Teknik Üniversitesi;Supply Oper;Berlin, Berlin, Almanya
+user270;Animal Dynamics Limited;Orta Doğu Teknik Üniversitesi;Analysis Engineer;Birleşik Krallık
+user271;Airbus;Orta Doğu Teknik Üniversitesi ;System Safety Engineer;Manching, Bavaria, Germany
+user272;Volocopter GmbH;University of Warwick;Aerospace Structures Design Engineer;Stuttgart, Baden-Württemberg, Germany
+user273;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Engineer;Eindhoven, North Brabant, Netherlands
+user274;ASML;Middle East Technical University;Group Lead - Thermal Analysis;Eindhoven, North Brabant, Netherlands
+user275;ASML;Istanbul Technical University;D&E Software Engineer DUV Imaging;Eindhoven, North Brabant, Netherlands
+user276;ASML;Bilkent University;Software Developer;Eindhoven, North Brabant, Netherlands
+user277;ASML;Orta Doğu Teknik Üniversitesi ;#NAME?;Eindhoven, North Brabant, Netherlands
+user278;ASML;Orta Doğu Teknik Üniversitesi ;Electrical & Electronics Engineer;Nijmegen, Gelderland, Netherlands
+user279;Collins Aerospace;Orta Doğu Teknik Üniversitesi ;Sr. RMTS System Engineer;Heidelberg, Baden-Württemberg, Germany
+user280;ASML;Middle East Technical University;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user281;ASML;Middle East Technical University;ME & EE;Netherlands
+user282;ASML;Orta Doğu Teknik Üniversitesi ;E-Integr;Eindhoven, North Brabant, Netherlands
+user283;BAE Systems;The University of Manchester;Senior CFD Engineer;United Kingdom
+user284;ASML;Hacettepe University;Design Engineer;Veldhoven, North Brabant, Netherlands
+user285;ASML;Politecnico di Milano;Design Engineer;Eindhoven, North Brabant, Netherlands
+user286;ICT Group;TOBB ETU;Senior Software Designer;Eindhoven, North Brabant, Netherlands
+user287;ASML;Ege University;R&D Software Design Specialist;North Holland, Netherlands
+user288;ASML;Orta Doğu Teknik Üniversitesi;Senior Embedded Software Engineer;Netherlands
+user289;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Netherlands
+user290;ASML;Yildiz Technical University;Design Engineer Software;Netherlands
+user291;Lilium;Orta Doğu Teknik Üniversitesi ;Senior Mechanical Design Engineer;Turkey
+user292;Advanced Technology Center, Lockheed Martin Space;The University of Akron;Advanced M;Mountain View, California, United States
+user293;ASML;Bilkent University;Senior Software Engineer working with Java;Eindhoven, North Brabant, Netherlands
+user294;ASML;Orta Doğu Teknik Üniversitesi ;Group Manager - Embedded Software;Veldhoven, North Brabant, Netherlands
+user295;Volocopter GmbH;Bilkent Üniversitesi;Supplier Manager - Avionics;Turkey
+user296;ASML;Orta Doğu Teknik Üniversitesi ;CS EHS Management System Specialist;Eindhoven, North Brabant, Netherlands
+user297;Lilium;Orta Doğu Teknik Üniversitesi ;Senior Mechanical Design Engineer - B;Munich, Bavaria, Germany
+user298;Lilium;Orta Doğu Teknik Üniversitesi ;Thermal Engineer;Munich, Bavaria, Germany
+user299;ASML;Başkent Üniversitesi;Şirketinde Connectivity Design Engineer;Venlo, Limburg, Netherlands
+user300;ASML;Orta Doğu Teknik Üniversitesi ;Senior FPGA Design Engineer;Veldhoven, North Brabant, Netherlands
+user301;ASML;Orta Doğu Teknik Üniversitesi ;Project Team Lead;Veldhoven, North Brabant, Netherlands
+user302;ASML;Orta Doğu Teknik Üniversitesi;Nanotechnology | Chemical Engineer;Eindhoven, North Brabant, Netherlands
+user303;ASML;İstanbul Teknik Üniversitesi;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user304;Capgemini Engineering;Orta Doğu Teknik Üniversitesi;Project Manager;Eindhoven, North Brabant, Netherlands
+user305;ASML;Bilkent Üniversitesi;Embedded Logic and Firmware Design Engineer;Eindhoven, North Brabant, Netherlands
+user306;ASML;İstanbul Teknik Üniversitesi;Electronics and Communic;Netherlands
+user307;ASML;Orta Doğu Teknik Üniversitesi ;Project Team Lead;Veldhoven, North Brabant, Netherlands
+user308;Airbus;Middle East Technical University;Structural Dynamics Engineer;Augsburg, Bavaria, Germany
+user309;ASML;Orta Doğu Teknik Üniversitesi;Electronic Engineer;Veldhoven, North Brabant, Netherlands
+user310;Boeing;Embry-Riddle Aeronautical University;Cabin Interiors Design Engineer;Frimley, England, United Kingdom
+user311;ASML;Bilkent University;SW Functional Cluster Architect;Eindhoven, North Brabant, Netherlands
+user312;ASML;Bilkent University;Software Design Engineer;Veldhoven, North Brabant, Netherlands
+user313;ASML;University of Melbourne;;Eindhoven Area
+user314;Lockheed Martin;Cranfield University;Senior Weapon Systems Engineer - Special Projects;Oxford, England, United Kingdom
+user315;ASML;Delft University of Technology;Project Manager;Eindhoven, North Brabant, Netherlands
+user316;Airbus;Gazi University;Supply Chain Quality Manager @ AIRBUS (thru Alten Limited UK);United Kingdom
+user317;Boeing;University of Washington;Project Engineer;Seattle, Washington, United States
+user318;ASML;Orta Doğu Teknik Üniversitesi ;Mech;Netherlands
+user319;Airbus;Politecnico di Milano;Supplier Development Manager;Greater Hamburg Area
+user320;ASML;Orta Doğu Teknik Üniversitesi;Electromechanical Engineer;Eindhoven, North Brabant, Netherlands
+user321;Thales;Hacettepe University;GIS Developer;Oud-Heverlee, Flemish Region, Belgium
+user322;ASML;Hacettepe University;Software Test Engineer;Eindhoven, North Brabant, Netherlands
+user323;ASML;Orta Dogu Teknik Üniversitesi;Software Design Engineer @;Netherlands
+user324;Lilium;Istanbul Technical University;Senior Requirements Management and Tools Engineer;Munich, Bavaria, Germany
+user325;ASML;Technische Universiteit Eindhoven;Thermal Design Engineer;Eindhoven, North Brabant, Netherlands
+user326;ASML;Erciyes University;Electronics Architect;Netherlands
+user327;L3Harris Technologies;McMaster University;System Design | Oper;Burlington, Ontario, Canada
+user328;Volocopter GmbH;Istanbul Technical University;Aerospace Structural Design Engineer;Heidelberg, Baden-Württemberg, Germany
+user329;ASML;University of Twente;Researcher;Eindhoven, North Brabant, Netherlands
+user330;ASML;Istanbul Üniversitesi;Design Engineer;Veldhoven, North Brabant, Netherlands
+user331;Boeing;Texas A&M University;Systems Engineer - Product Development;Greater Seattle Area
+user332;Airbus;RWTH Aachen University;Equipment System Engineer;Munich, Bavaria, Germany
+user333;Airbus;TOBB Ekonomi ve Teknoloji Üniversitesi;Industrial Cyber Security Specialist;Bremen, Bremen, Germany
+user334;Airbus;Istanbul Technical University;Performance & Improvement Manager;Greater Hamburg Area
+user335;Boeing Defence Australia;Orta Doğu Teknik Üniversitesi ;;Greater Sydney Area
+user336;Lilium;Universität Ulm;B;Ulm, Baden-Württemberg, Germany
+user337;ASML;Istanbul Technical University;Team Leader - DUV Mechanical Construction;Eindhoven, North Brabant, Netherlands
+user338;Airbus;Orta Doğu Teknik Üniversitesi;Structural Analysis Engineer - Turkish Aerospace Industries;United Kingdom
+user339;Boeing;University of Manitoba;Aerospace Engineer | MSc Student;Winnipeg, Manitoba, Canada
+user340;ASML;The Ohio State University;Team Leader;Eindhoven, North Brabant, Netherlands
+user341;ASML;Ege Üniversitesi;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user342;ASML;Bilkent University;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user343;Airbus;Udacity;Cyber Security Transform;Spain
+user344;BAE Systems;Cranfield University;Principal Engineer - Structures;Oldham, England, United Kingdom
+user345;Thales;Polytech Lille;Tactical D;Greater Brest Area
+user346;Airbus;İstanbul Teknik Üniversitesi;Landing Gear Performance Analyst;Bristol, England, United Kingdom
+user347;ASML;Kocaeli University;Senior Software Design Engineer;Netherlands
+user348;L3Harris Technologies;GEBZE INSTITUTE OF TECHNOLOGY;--;Burlington, Ontario, Canada
+user349;ASML;Orta Doğu Teknik Üniversitesi;Software Engineer;Eindhoven, North Brabant, Netherlands
+user350;Sikorsky;Orta Doğu Teknik Üniversitesi ;Aeorstructures Stress Analyst;New Haven, Connecticut, United States
+user351;Lilium;Michigan Technological University;E3 System Engineer;Wessling, Bavaria, Germany
+user352;Boeing Deutschland GmbH;University of Stuttgart;Manufacturing Technology Integr;Greater Munich Metropolitan Area
+user353;ASML;Boğaziçi Üniversitesi;Software Architect;Eindhoven, North Brabant, Netherlands
+user354;ASML;Orta Doğu Teknik Üniversitesi ;Electronics Design Engineer;’s-Hertogenbosch, North Brabant, Netherlands
+user355;ASML;Istanbul Technical University;Team Leader;Eindhoven, North Brabant, Netherlands
+user356;ASML;İstanbul Teknik Üniversitesi;Software Developer;Germany
+user357;ASML;Orta Doğu Teknik Üniversitesi ;Team Leader @  -  Mechanical Constructions Design  📍 Taking the lead in the development of mechanical systems and coaching the team to achieve optimal results   📍Leading the  Mech. Dev. Team Leader Community;Veldhoven, North Brabant, Netherlands
+user358;ASML;Technische Universität Dresden;Applic;Veldhoven, North Brabant, Netherlands
+user359;Volocopter GmbH;Technical University of Munich;Aerospace M. Sc. Student;Munich, Bavaria, Germany
+user360;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Development Team Leader;Netherlands
+user361;Boeing;Gazi University;Aerospace Production Engineering;United States
+user362;ASML;Gazi University;Customer Support Engineer;Reutlingen, Baden-Württemberg, Germany
+user363;Tesla;Bilkent University;Manufacturing Engineer;Berlin, Berlin, Germany
+user364;ASML;Istanbul Technical University;Electronics Architect;Veldhoven, North Brabant, Netherlands
+user365;Boeing;Georgia Institute of Technology;Full Stack Software Engineer;Oklahoma City, Oklahoma, United States
+user366;Tesla;Hacettepe Üniversitesi;Senior Mechanical Project Engineer;Fremont, California, United States
+user367;ASML;Bilkent University;Tactical Buyer;Netherlands
+user368;L3Harris Technologies;McMaster University;Senior Algorithm Designer;Waterloo, Ontario, Canada
+user369;ASML;Istanbul Technical University;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user370;Lilium;Hamburg University of Applied Sciences;Stress Engineer - Propulsion System;Munich, Bavaria, Germany
+user371;L3Harris Technologies;Claremont Graduate University - Peter F. Drucker and Masatoshi Ito Graduate School of Management;Sr. Manager;Anaheim, California, United States
+user372;ASML;Bilkent Üniversitesi;Software Engineer;’s-Hertogenbosch, North Brabant, Netherlands
+user373;ASML;Mustafa Kemal Üniversitesi;CS - Competence Engineer;Eindhoven, North Brabant, Netherlands
+user374;ASML;Eindhoven University of Technology;Researcher;Eindhoven, North Brabant, Netherlands
+user375;Volocopter GmbH;Orta Doğu Teknik Üniversitesi ;Senior Manufacturing Engineer;Walldorf, Baden-Württemberg, Germany
+user376;ASML;The University of Akron;Senior Software Engineer @ WEB Eindhoven for;Veldhoven, North Brabant, Netherlands
+user377;ASML;Boğaziçi Üniversitesi;Software Functional Requirement Engineer;Netherlands
+user378;ASML;Gebze Technical University;Software Engineer @;Eindhoven, North Brabant, Netherlands
+user379;ASML;Orta Doğu Teknik Üniversitesi;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user380;ASML;Orta Doğu Teknik Üniversitesi ;Design Engineer;Eindhoven, North Brabant, Netherlands
+user381;ASML;Orta Doğu Teknik Üniversitesi;Mechanical Engineer;Veldhoven, North Brabant, Netherlands
+user382;ASML;Hacettepe Üniversitesi;Software Design Engineer;Netherlands
+user383;ASML;Bilkent Üniversitesi;Electronics Designer;Eindhoven, North Brabant, Netherlands
+user384;ASML;Orta Doğu Teknik Üniversitesi ;Sourcing & Supply Chain Oper;Eindhoven, North Brabant, Netherlands
+user385;Airbus Aerostructures GmbH;Orta Doğu Teknik Üniversitesi ;F;Germany
+user386;ASML;Orta Doğu Teknik Üniversitesi ;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user387;ASML;Hacettepe University;Software Integr;Eindhoven, North Brabant, Netherlands
+user388;ASML;Orta Doğu Teknik Üniversitesi;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user389;Airbus;Koç Üniversitesi;Chemical Engineer;Germany
+user390;ASML;Orta Doğu Teknik Üniversitesi;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user391;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Software Engineer;Eindhoven, North Brabant, Netherlands
+user392;ASML;Atılım University;Design Engineer;Veldhoven, North Brabant, Netherlands
+user393;ASML;Orta Doğu Teknik Üniversitesi;Mechanical Architect;Eindhoven, North Brabant, Netherlands
+user394;ASML;Orta Doğu Teknik Üniversitesi;Senior Electronics Architect;Veldhoven, North Brabant, Netherlands
+user395;ASML;Orta Doğu Teknik Üniversitesi ;Software Engineer;Eindhoven, North Brabant, Netherlands
+user396;ASML;Orta Doğu Teknik Üniversitesi;#NAME?;Eindhoven, North Brabant, Netherlands
+user397;ASML;Middle East Technical University;Senior D;Eindhoven, North Brabant, Netherlands
+user398;ASML;Middle East Technical University;DFSS Master Black Belt;Eindhoven, North Brabant, Netherlands
+user399;ASML;Orta Doğu Teknik Üniversitesi;Software Design Engineer -;Eindhoven, North Brabant, Netherlands
+user400;Tesla;Yildiz Technical University;Manufacturing Engineer;Berlin, Berlin, Germany
+user401;ASML;Orta Doğu Teknik Üniversitesi;Design Engineer -;Eindhoven, North Brabant, Netherlands
+user402;ASML;Northeastern University;Software Design Engineer;Turkey
+user403;ASML;Orta Doğu Teknik Üniversitesi;Design Engineer;Eindhoven, North Brabant, Netherlands
+user404;ASML;Hacettepe Üniversitesi;Senior Embedded Software Engineer;Eindhoven, North Brabant, Netherlands
+user405;Tesla;Bilkent University;Supply Chain Planner - EMEA Service Parts;Netherlands
+user406;ASML;Middle East Technical University;System Configur;Eindhoven, North Brabant, Netherlands
+user407;ASML;TED University;System Performance Engineer;Vught, North Brabant, Netherlands
+user408;Airbus;Orta Doğu Teknik Üniversitesi ;F&DT Engineer;United Kingdom
+user409;Lilium;Gazi Üniversitesi;Manufacturing Engineer Aerostructure Assembly -;Munich, Bavaria, Germany
+user410;ASML;Orta Doğu Teknik Üniversitesi;Power Supply Design Engineer;Eindhoven, North Brabant, Netherlands
+user411;ASML;Orta Doğu Teknik Üniversitesi ;Engineering the Future;Veldhoven, North Brabant, Netherlands
+user412;Boeing;Georgia Institute of Technology;Structural Analysis Engineer;Atlanta, Georgia, United States
+user413;ASML;Sabanci University;Mech;Eindhoven, North Brabant, Netherlands
+user414;ASML;Marmara University;EXE System Qualific;Netherlands
+user415;ASML;Hacettepe University;Electromechanical Engineer;Veldhoven, North Brabant, Netherlands
+user416;ASML;Eindhoven University of Technology;Eng. D. Mech;Eindhoven, North Brabant, Netherlands
+user417;ASML;Bilkent University;System Performance Engineer;Eindhoven, North Brabant, Netherlands
+user418;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Netherlands
+user419;ASML;Orta Doğu Teknik Üniversitesi;Mechanical Design Engineer;Veldhoven, North Brabant, Netherlands
+user420;ASML;Boğaziçi Üniversitesi;Electronics Architect (Laser Light Positioning) - MSc CSEP;Eindhoven, North Brabant, Netherlands
+user421;ASML;Bilkent University;IT Business Process Analyst;Eindhoven, North Brabant, Netherlands
+user422;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Software Test Engineer;Eindhoven, North Brabant, Netherlands
+user423;ASML;Bilkent University;Design Engineer;Eindhoven, North Brabant, Netherlands
+user424;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user425;ASML;Orta Doğu Teknik Üniversitesi;Software Test Engineer;Eindhoven, North Brabant, Netherlands
+user426;ASML;Bogazici University;Project Lead;Netherlands
+user427;ASML;Orta Doğu Teknik Üniversitesi;Test and Measurement Engineer;Netherlands
+user428;ASML;Orta Doğu Teknik Üniversitesi ;Electronics Architect;Eindhoven, North Brabant, Netherlands
+user429;ASML;Karabuk University;System Performance Engineer;Eindhoven, North Brabant, Netherlands
+user430;Tesla;RWTH Aachen University;Mechanical;Germany
+user431;ASML;Ankara Üniversitesi;DevOps Engineer;Eindhoven Area
+user432;ASML;Hacettepe Üniversitesi;Industrializ;Eindhoven, North Brabant, Netherlands
+user433;ASML;Istanbul Technical University;𝗟𝗲𝗮𝗱 𝗗𝗲𝘀𝗶𝗴𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗔𝗦𝗠𝗟;Eindhoven, North Brabant, Netherlands
+user434;ASML;Istanbul Technical University;Competence Engineer;Best, North Brabant, Netherlands
+user435;Lilium;Ruhr-Universität Bochum;Lead Stress Engineer;Munich, Bavaria, Germany
+user436;ASML;Eskişehir Osmangazi Üniversitesi;Software System Test Engineer;Eindhoven, North Brabant, Netherlands
+user437;ASML;Istanbul Technical University;Value Engineer;Netherlands
+user438;ASML;Gazi Üniversitesi;(sr) Supply Chain Manager (SCM) | Logistics Supplier Manager (LSM);Veldhoven, North Brabant, Netherlands
+user439;ASML;Orta Doğu Teknik Üniversitesi ;Senior Design Engineer;Eindhoven, North Brabant, Netherlands
+user440;ASML;Bogazici University;Inform;Netherlands
+user441;Lilium;Bilkent University;Mechanical Engineer | 6+ Years in Aerospace Industry | MS;Greater Munich Metropolitan Area
+user442;Thales;Eskişehir Osmangazi Üniversitesi;Software Architect @  UK;Whitechapel, England, United Kingdom
+user443;Collins Aerospace;Selcuk University;Test and Valid;Germany
+user444;ASML;Middle East Technical University;Mechanical Design Engineer;Netherlands
+user445;ASML;Gazi Üniversitesi;Test Engineer;Netherlands
+user446;Airbus;İstanbul Teknik Üniversitesi;Technical D;Hamburg, Hamburg, Germany
+user447;ASML;TOBB Economy and Technology University;Production Engineer;Eindhoven, North Brabant, Netherlands
+user448;ASML;Technische Universität Wien;Global Product Safety Competence Lead;Eindhoven, North Brabant, Netherlands
+user449;ASML;Boğaziçi Üniversitesi;Lead Designer;Veldhoven, North Brabant, Netherlands
+user450;ASML;Middle East Technical University;Design Engineer;Eindhoven, North Brabant, Netherlands
+user451;ASML;Orta Doğu Teknik Üniversitesi;Lead Design Engineer;Eindhoven, North Brabant, Netherlands
+user452;ASML;Middle East Technical University;MSc. Mechanical Engineer | Project Engineer | Technology & Str;Leiden, South Holland, Netherlands
+user453;ASML;Atılım Üniversitesi;Senior Linux Engineer;Eindhoven, North Brabant, Netherlands
+user454;ASML;İstanbul Teknik Üniversitesi;Value Engineer;Netherlands
+user455;ASML;Eindhoven University of Technology;Project Cluster Manager;Eindhoven, North Brabant, Netherlands
+user456;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Project Leader;Eindhoven, North Brabant, Netherlands
+user457;ASML;Delft University of Technology;Technical Project Manager;The Randstad, Netherlands
+user458;ASML;Bilkent Üniversitesi ;Design Engineer;Eindhoven, North Brabant, Netherlands
+user459;ASML;Orta Doğu Teknik Üniversitesi ;(MSc) Mechanical Architect;Eindhoven, North Brabant, Netherlands
+user460;ASML;Arden University;Project Management | Six Sigma & SPC | Realibility Engineering | Continuous Improvement;Eindhoven, North Brabant, Netherlands
+user461;ASML;Bilkent University;Project Manager;Heerle, North Brabant, Netherlands
+user462;ASML;Gazi Üniversitesi;SQE;Eindhoven, North Brabant, Netherlands
+user463;ASML;Orta Doğu Teknik Üniversitesi ;;Eindhoven, North Brabant, Netherlands
+user464;ASML;Middle East Technical University;Senior Project Leader;Eindhoven Area
+user465;ASML;Gazi University;Devops Engineer;Eindhoven, North Brabant, Netherlands
+user466;University of New Haven;University of New Haven;Sr. D;Norwalk, Connecticut, United States
+user467;ASML;Technische Universiteit Delft;Imaging Design Engineer;Netherlands
+user468;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user469;Thales;Middle East Technical University;Mechanical Engineer;Melbourne, Victoria, Australia
+user470;ASML via TMC;Istanbul Technical University;CFD Expert;Eindhoven, North Brabant, Netherlands
+user471;ASML;Orta Doğu Teknik Üniversitesi;Electro Mechanical Engineer -;Netherlands
+user472;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user473;ASML;Middle East Technical University;Project Leader;Veldhoven, North Brabant, Netherlands
+user474;ASML;Orta Doğu Teknik Üniversitesi ;Software Test Lead Engineer;Eindhoven, North Brabant, Netherlands
+user475;ASML;Orta Doğu Teknik Üniversitesi ;Embedded Software Engineer;Eindhoven, North Brabant, Netherlands
+user476;ASML;Middle East Technical University;Mechanical Architect;Eindhoven, North Brabant, Netherlands
+user477;ASML;Hacettepe University;Engineer;Netherlands
+user478;ASML;Orta Doğu Teknik Üniversitesi ;MBA;Veldhoven, North Brabant, Netherlands
+user479;ASML;RWTH Business School;Manufacturing;Eindhoven, North Brabant, Netherlands
+user480;Thales;Hacettepe Üniversitesi;Senior Java Developer | Senior Software Engineer;Prague, Czechia
+user481;ASML;Orta Doğu Teknik Üniversitesi ;Flow and Thermal Architect -;Eindhoven, North Brabant, Netherlands
+user482;ASML;Istanbul Technical University;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user483;Volocopter GmbH;Middle East Technical University;Systems Engineer;Germany
+user484;ASML;Orta Doğu Teknik Üniversitesi ;Scrum Master;Veldhoven, North Brabant, Netherlands
+user485;Boeing;Istanbul Technical University;Lead Maintenance Programmes Engineer;Farnborough, England, United Kingdom
+user486;ASML;Middle East Technical University;Software Quality Manager;Eindhoven, North Brabant, Netherlands
+user487;ASML;Delft University of Technology;PLM;Stamford, Connecticut, United States
+user488;ASML;İstanbul Bilgi Üniversitesi;System Owner;Veldhoven, North Brabant, Netherlands
+user489;ASML;Orta Doğu Teknik Üniversitesi ;Corpor;Utrecht, Utrecht, Netherlands
+user490;Airbus;Orta Doğu Teknik Üniversitesi ;Buyer | Supplier Rel;Greater Bremen Area
+user491;ASML;Middle East Technical University;Tech Lead - Solution Architect;Eindhoven, North Brabant, Netherlands
+user492;ASML;Middle East Technical University;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user493;ASML;Bilkent University;Change Management Specialist;Veldhoven, North Brabant, Netherlands
+user494;ASML;Orta Doğu Teknik Üniversitesi ;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user495;ASML;University of Leeds;Design Engineer;Eindhoven, North Brabant, Netherlands
+user496;TMC;Orta Doğu Teknik Üniversitesi;FPGA Designer;Netherlands
+user497;ASML;Orta Doğu Teknik Üniversitesi;Systems Performance Engineer -;Eindhoven, North Brabant, Netherlands
+user498;ASML;Bilkent University;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user499;ASML;Hacettepe University;Software Design Engineer;Eindhoven, North Brabant, Netherlands
+user500;ASML;Orta Doğu Teknik Üniversitesi ;FPGA Engineer;Eindhoven, North Brabant, Netherlands
+user501;Boeing;The George Washington University;S;Washington, District of Columbia, United States
+user502;ASML;University of Victoria;Senior Mech;Veldhoven, North Brabant, Netherlands
+user503;ASML;Orta Doğu Teknik Üniversitesi ;Software Design Engineer;Veldhoven, North Brabant, Netherlands
+user504;ASML;Orta Doğu Teknik Üniversitesi;Electronics Architect;Eindhoven, North Brabant, Netherlands
+user505;ASML;Anadolu Üniversitesi;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user506;ASML;Middle East Technical University;Senior Mech;Netherlands
+user507;Tesla;University of California, Merced;Control Engineering Intern;Fremont, California, United States
+user508;ASML;Orta Doğu Teknik Üniversitesi;Project Lead - D&E Re-Use Project Management;Eindhoven, North Brabant, Netherlands
+user509;ASML;Hacettepe University;Equipment and Manufacturing Engineer;Netherlands
+user510;ASML;Bilkent University;Industrial Engineer;Netherlands
+user511;ASML;Orta Doğu Teknik Üniversitesi ;Electronic Design Engineer;Veldhoven, North Brabant, Netherlands
+user512;ASML;Marmara University;Software Test Engineer;Nuenen, North Brabant, Netherlands
+user513;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Thermal & Mechanical Analysis Engineer;Eindhoven, North Brabant, Netherlands
+user514;ASML;Orta Doğu Teknik Üniversitesi ;Design Engineer;Netherlands
+user515;ASML;Sabancı Üniversitesi;Supplier Quality Engineer;Eindhoven, North Brabant, Netherlands
+user516;Lilium;Orta Doğu Teknik Üniversitesi ;Stress Engineer;Wessling, Bavaria, Germany
+user517;Tesla;University of Maryland;Senior Mechanical Design Engineer;Palo Alto, California, United States
+user518;ASML;Middle East Technical University;Sourcing Lead @;Veldhoven, North Brabant, Netherlands
+user519;ASML;Technical university of Eindhoven;Software architect;Eindhoven, North Brabant, Netherlands
+user520;ASML;Anadolu Üniversitesi;Project Leader Tool Cost;Eindhoven, North Brabant, Netherlands
+user521;ASML;GAZI University, Engineering and Architecture Faculty;Product Change Leader;Eindhoven, North Brabant, Netherlands
+user522;ASML;Orta Doğu Teknik Üniversitesi;FEA Engineer;Roermond, Limburg, Netherlands
+user523;ASML;Orta Doğu Teknik Üniversitesi ;Computer Systems Engineer;Eindhoven, North Brabant, Netherlands
+user524;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user525;ASML;Hacettepe Üniversitesi;Group Lead - Business Process Management;Eindhoven, North Brabant, Netherlands
+user526;ASML;Orta Doğu Teknik Üniversitesi ;Sourcing Support Project Lead MSc;Netherlands
+user527;ASML;Orta Doğu Teknik Üniversitesi;Design Engineering Quality Manager;Eindhoven, North Brabant, Netherlands
+user528;ASML;Eindhoven University of Technology;Group Lead Equipment and Manufacturing Engineering @;Eindhoven, North Brabant, Netherlands
+user529;ASML;Orta Doğu Teknik Üniversitesi;Mechanical Design Engineer Lead;Eindhoven, North Brabant, Netherlands
+user530;Airbus;ISAE-SUPAERO;Single Aisle Technical Change Management;Hamburg, Hamburg, Germany
+user531;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Systems Architect;Eindhoven, North Brabant, Netherlands
+user532;ASML;Istanbul Technical University;Asml Netherlands B.V. şirketinde Design Engineer;Valkenswaard, North Brabant, Netherlands
+user533;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Manufacturing and Equipment Engineer;Eindhoven, North Brabant, Netherlands
+user534;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Engineer | Being part of progress @;Veldhoven, North Brabant, Netherlands
+user535;Collins Aerospace;Orta Doğu Teknik Üniversitesi ;M.Sc.-Mechanical Engineer;Veldhoven, North Brabant, Netherlands
+user536;ASML;Orta Doğu Teknik Üniversitesi;EMC Team Lead;Netherlands
+user537;ASML;Özyeğin Üniversitesi;Design Engineer | Being part of progress @;Eindhoven, North Brabant, Netherlands
+user538;ASML;Orta Doğu Teknik Üniversitesi ;Business Process Expertise Manager;Eindhoven, North Brabant, Netherlands
+user539;ASML;Istanbul Technical University;Functional Design Engineer;Eindhoven, North Brabant, Netherlands
+user540;ASML;Orta Doğu Teknik Üniversitesi;Production Engineer -;Netherlands
+user541;ASML;Orta Dogu Teknik Üniversitesi;Yazılım Mühendisi;Eindhoven, North Brabant, Netherlands
+user542;Boeing;The University of Texas at Arlington;Manufacturing Planner;Dallas, Texas, United States
+user543;Collins Aerospace;Orta Doğu Teknik Üniversitesi;Principal Equipment System Engineer;Frankfurt, Hesse, Germany
+user544;ASML;Orta Doğu Teknik Üniversitesi ;Product Change Leader;Netherlands
+user545;ASML;Yıldız Teknik Üniversitesi;System Industrializ;Eindhoven, North Brabant, Netherlands
+user546;ASML;Orta Doğu Teknik Üniversitesi ;Electrical System Engineer;Netherlands
+user547;ASML;Orta Doğu Teknik Üniversitesi ;Test Architect;Eindhoven, North Brabant, Netherlands
+user548;ASML;Bilkent University;EUV System Qualific;Eindhoven, North Brabant, Netherlands
+user549;ASML;Middle East Technical University;Change Management Specialist (CS2);Netherlands
+user550;ASML;Bilkent University;Change Management Expert;Netherlands
+user551;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Engineer;Netherlands
+user552;Boeing;University of California, San Diego;Structural & Payload Design Engineer;Seattle, Washington, United States
+user553;Airbus;Hacettepe Üniversitesi;Wing Lead F;United Kingdom
+user554;ASML;Orta Doğu Teknik Üniversitesi ;Proto Integr;Eindhoven, North Brabant, Netherlands
+user555;ASML;İstanbul Teknik Üniversitesi;#NAME?;Netherlands
+user556;Boeing;Istanbul Technical University;MSc;Farnborough, England, United Kingdom
+user557;ASML;Università degli Studi di Napoli 'Federico II';Product Change Leader @;Eindhoven, North Brabant, Netherlands
+user558;ASML;Istanbul Technical University;Industrializ;Eindhoven, North Brabant, Netherlands
+user559;Airbus;Gazi Üniversitesi;Composite;Germany
+user560;ASML;Hacettepe University;Electrical Integr;Eindhoven, North Brabant, Netherlands
+user561;ASML;Orta Doğu Teknik Üniversitesi;Spare Parts Engineer;Eindhoven, North Brabant, Netherlands
+user562;ASML;Orta Doğu Teknik Üniversitesi ;Functional Design Engineer;Eindhoven, North Brabant, Netherlands
+user563;ASML;Orta Doğu Teknik Üniversitesi;Project Team Lead;Eindhoven, North Brabant, Netherlands
+user564;ASML;Gebze Technical University;Scrum Master;Eindhoven, North Brabant, Netherlands
+user565;ASML;Orta Doğu Teknik Üniversitesi ;Scrum Master;Eindhoven, North Brabant, Netherlands
+user566;Airbus;Wichita State University;Cost Engineer with Focus on D;Greater Hamburg Area
+user567;ASML;Istanbul Technical University;MSc. Mechanical Engineer;Eindhoven, North Brabant, Netherlands
+user568;ASML;Orta Doğu Teknik Üniversitesi;Lead Mechanical Engineer;Eindhoven, North Brabant, Netherlands
+user569;Thales;Orta Doğu Teknik Üniversitesi ;Solution Architect;Brussels Metropolitan Area
+user570;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Design Engineer;Veldhoven, North Brabant, Netherlands
+user571;ASML;Middle East Technical University;Aerospace Engineer;Eindhoven, North Brabant, Netherlands
+user572;ASML;Boğaziçi University;C++ Developer;Eindhoven, North Brabant, Netherlands
+user573;ASML;Cukurova University;Factory Prepar;Eindhoven, North Brabant, Netherlands
+user574;ASML;Eindhoven University of Technology;Mechanical Engineer | Thermo Fluid Engineer | Master's Student | Energy Technology | R&D Engineer;Eindhoven, North Brabant, Netherlands
+user575;ASML;Çankaya Üniversitesi;Main Deliverable Owner Packaging;Eindhoven, North Brabant, Netherlands
+user576;ASML;Orta Doğu Teknik Üniversitesi ;Group Lead - System Dynamics HW;Netherlands
+user577;ASML;Middle East Technical University;Machine Conditioning DUV System Industriliz;Eindhoven, North Brabant, Netherlands
+user578;ASML;Orta Doğu Teknik Üniversitesi ;System Industrializ;Netherlands
+user579;ASML;Bilkent Üniversitesi;Senior Product Lifecycle Management Project Coordin;Netherlands
+user580;ASML;Orta Doğu Teknik Üniversitesi ;Source Laser Dept. Align & Autom;Veldhoven, North Brabant, Netherlands
+user581;Northrop Grumman;Georgia Institute of Technology;Stress Analyst;San Francisco Bay Area
+user582;ASML;Bilkent University;Digital Design Engineer;Eindhoven, North Brabant, Netherlands
+user583;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Analog Designer;Eindhoven, North Brabant, Netherlands
+user584;ASML;Orta Doğu Teknik Üniversitesi ;Reliability Engineer;Eindhoven, North Brabant, Netherlands
+user585;ASML;Orta Doğu Teknik Üniversitesi;Senior System Industrializ;Eindhoven, North Brabant, Netherlands
+user586;ASML;Middle East Technical University;Component Engineer;Eindhoven, North Brabant, Netherlands
+user587;Airbus;Yildiz Technical University;IT Project Manager;Germany
+user588;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Lead Mechanical Engineer;Waalre, North Brabant, Netherlands
+user589;ASML;Bilkent University;Change Process Analyst;Eindhoven, North Brabant, Netherlands
+user590;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Supplier Quality Engineer;Veldhoven, North Brabant, Netherlands
+user591;ASML;Orta Doğu Teknik Üniversitesi;Electrical Engineer;Eindhoven, North Brabant, Netherlands
+user592;ASML;Istanbul Technical University;Mechanical System Layout Engineer;Eindhoven, North Brabant, Netherlands
+user593;ASML;Eskişehir Osmangazi Üniversitesi;Connectivity Design Engineer;Eindhoven, North Brabant, Netherlands
+user594;ASML;Yıldız Teknik Üniversitesi;Reliability Engineer;Eindhoven, North Brabant, Netherlands
+user595;ASML;Middle East Technical University;Lead Design Engineer @;Veldhoven, North Brabant, Netherlands
+user596;Freelance;Marmara Üniversitesi;Senior SAP Developer;Barcelona, Catalonia, Spain
+user597;ASML;Istanbul Technical University;PSPO I Product Owner@ I MSc. Mechanical Engineer I PhD(c);Eindhoven, North Brabant, Netherlands
+user598;ASML;Universidad Antonio de Nebrija;PhD;Eindhoven, North Brabant, Netherlands
+user599;ASML;Ege Üniversitesi;Digital Design and Verific;Veldhoven, North Brabant, Netherlands
+user600;ASML;İstanbul Teknik Üniversitesi;is changing the world;Eindhoven, North Brabant, Netherlands
+user601;ASML;Orta Doğu Teknik Üniversitesi ;Industrialis;Netherlands
+user602;ASML;Orta Doğu Teknik Üniversitesi;SAFe Product Owner;Eindhoven, North Brabant, Netherlands
+user603;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Reliability Architect;Eindhoven, North Brabant, Netherlands
+user604;ASML;Middle East Technical University;Production Engineer;Eindhoven, North Brabant, Netherlands
+user605;ASML;Beykent University;Production Engineer;Netherlands
+user606;ASML;Alma Mater Studiorum - Università di Bologna;Technical Support Engineer;Eindhoven, North Brabant, Netherlands
+user607;Capgemini Engineering;Gazi University;Embedded Software Test Expert;Eindhoven, North Brabant, Netherlands
+user608;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Analyst;Eindhoven, North Brabant, Netherlands
+user609;ASML;Orta Doğu Teknik Üniversitesi;TF LAB Production Engineer;Eindhoven, North Brabant, Netherlands
+user610;ASML;Orta Doğu Teknik Üniversitesi ;SW Project Manager - New Product Introduction;Netherlands
+user611;ASML;Oregon State University;Sr. Mech;New York City Metropolitan Area
+user612;ASML;Technische Universität Hamburg-Harburg;Lead Mechanical Engineer;Eindhoven, North Brabant, Netherlands
+user613;Airbus;Inholland University of Applied Sciences;D;Bremen, Bremen, Germany
+user614;ASML;Middle East Technical University;RCA & Reliability Competence Engineer;Eindhoven, North Brabant, Netherlands
+user615;ASML;Middle East Technical University;Senior Firmware (FPGA) Design Engineer;Netherlands
+user616;ASML;Middle East Technical University;Architect Optics;Veldhoven, North Brabant, Netherlands
+user617;ASML;Orta Doğu Teknik Üniversitesi;Architect - Optomechanics;Eindhoven, North Brabant, Netherlands
+user618;ASML;Middle East Technical University;Lead Electromechanical Design Engineer | Being part of progress @;Veldhoven, North Brabant, Netherlands
+user619;ASML;University of Washington;PMO DUV Integr;Eindhoven, North Brabant, Netherlands
+user620;ASML;Technische Universität Dortmund;Proto Integr;Eindhoven, North Brabant, Netherlands
+user621;ASML;Orta Doğu Teknik Üniversitesi ;Sr. Designer Engineer | Being part of progress @;Eindhoven, North Brabant, Netherlands
+user622;ASML;İstanbul Teknik Üniversitesi ;Product Change Leader;Eindhoven, North Brabant, Netherlands
+user623;ASML;University of New Haven;System Industrializ;Netherlands
+user624;ASML;Universitat de Girona;Opto-Mechanical Design Engineer;Eindhoven, North Brabant, Netherlands
+user625;Qblox;Yeditepe University;Senior FPGA Designer;Veldhoven, North Brabant, Netherlands
+user626;ASML;Middle East Technical University;Industrializ;Eindhoven, North Brabant, Netherlands
+user627;Boeing;Istanbul Technical University;Structural Service Engineer (737NG;Ukraine
+user628;ASML;Middle East Technical University;Competence Team Lead;Veldhoven, North Brabant, Netherlands
+user629;Boeing;Unifesp - Universidade Federal de São Paulo;Structural Airframe Designer | Fighter Jets | Composite | Military Aircrafts | C;São José dos Campos, São Paulo, Brazil
+user630;ASML;Orta Doğu Teknik Üniversitesi;Manufacturing and Equipment Engineer -  B.V.;Veldhoven, North Brabant, Netherlands
+user631;ASML;Delft University of Technology;Researcher - Flow & Thermal @;Netherlands
+user632;ASML;Hacettepe Üniversitesi;Electronic Hardware Architect;Eindhoven, North Brabant, Netherlands
+user633;ASML;Politecnico di Milano;Mechanical Engineer | Changing the world one nanometer;Best, North Brabant, Netherlands
+user634;ASML;Orta Doğu Teknik Üniversitesi ;--;Eindhoven, North Brabant, Netherlands
+user635;ASML;Middle East Technical University;Software Architect;Eindhoven, North Brabant, Netherlands
+user636;ASML;Bilkent Üniversitesi;System Qualific;Veldhoven, North Brabant, Netherlands
+user637;ASML;Orta Doğu Teknik Üniversitesi;EMC Engineer;Arnhem, Gelderland, Netherlands
+user638;BAE Systems;San Jose State University;Project Manager;San Jose, California, United States
+user639;ASML;University of Arizona;Sr Design Engineer;New York City Metropolitan Area
+user640;Airbus;Istanbul Technical University;Stress Engineer;Greater Hamburg Area
+user641;ASML;Bilkent University;Optical Metrology Design Engineer;Netherlands
+user642;ASML;Istanbul Technical University;Design Engineer;Eindhoven Area
+user643;ASML;Orta Doğu Teknik Üniversitesi;Scrum Master;Eindhoven, North Brabant, Netherlands
+user644;ASML;Orta Doğu Teknik Üniversitesi ;D&E Diagnostics Business Architect | D&E Diagnostics Integr;Eindhoven, North Brabant, Netherlands
+user645;ASML;Eindhoven University of Technology;Project Architect;Eindhoven, North Brabant, Netherlands
+user646;ASML;Orta Doğu Teknik Üniversitesi ;Scrum Master;Delft, South Holland, Netherlands
+user647;ASML;Orta Doğu Teknik Üniversitesi ;Electrical Architect;Netherlands
+user648;ASML;Eindhoven University of Technology;Metrology Design Engineer;Amsterdam, North Holland, Netherlands
+user649;ASML;Delft University of Technology;Customer Support Business Planning;Eindhoven, North Brabant, Netherlands
+user650;ASML;Universiteit Gent;Optical Design Engineer;Eindhoven, North Brabant, Netherlands
+user651;ASML;Orta Doğu Teknik Üniversitesi ;Oper;Eindhoven, North Brabant, Netherlands
+user652;ASML;Orta Doğu Teknik Üniversitesi ;Embedded Logic & Firmware Designer;Turkey
+user653;ASML;Middle East Technical University;Implementing PLM solutions and enabling change @;Netherlands
+user654;Airbus in Australia Pasific;İstanbul Teknik Üniversitesi;Airframe Equipment and Integr;Brisbane, Queensland, Australia
+user655;Airbus;Université Paul Sabatier (Toulouse III);Product Leader Galleys & GAINs & Lav;Toulouse, Occitanie, France
+user656;ASML;Technische Universiteit Eindhoven;Control System Architect;Eindhoven, North Brabant, Netherlands
+user657;ASML;Orta Doğu Teknik Üniversitesi ;Mechanical Architect;Eindhoven, North Brabant, Netherlands
+user658;ASML;Middle East Technical University;System Technical Configur;Veldhoven, North Brabant, Netherlands
+user659;ASML;Orta Doğu Teknik Üniversitesi;Design Engineer | Changing the world one nanometer;Eindhoven, North Brabant, Netherlands
+user660;ASML;Orta Doğu Teknik Üniversitesi ;Opto-Mechanical Design Engineer;Turkey
+user661;ASML;Orta Doğu Teknik Üniversitesi ;CM Oper;Netherlands
+user662;ASML;Koç Üniversitesi;PhD in Industrial Engineering and Oper;Eindhoven, North Brabant, Netherlands
+user663;ASML;Orta Doğu Teknik Üniversitesi;CS EUV Source Competence Engineer;Netherlands
+user664;ASML;Orta Doğu Teknik Üniversitesi;;Eindhoven, North Brabant, Netherlands
+user665;ASML;Istanbul Technical University;Product Owner;Eindhoven, North Brabant, Netherlands
+user666;ASML;Istanbul Technical University;Industrializ;Eindhoven, North Brabant, Netherlands
+user667;ASML;Orta Doğu Teknik Üniversitesi;Mechanical System Layout Engineer;Netherlands
+user668;ASML;Orta Doğu Teknik Üniversitesi ;Main Deliverable Owner (MDO);Eindhoven, North Brabant, Netherlands
+user669;ASML;Middle East Technical University;System Integr;Veldhoven, North Brabant, Netherlands
+user670;ASML;Sabanci University;Industrializ;Eindhoven, North Brabant, Netherlands
+user671;ASML;Istanbul Technical University;System Industrializ;Eindhoven, North Brabant, Netherlands
+user672;ASML;Orta Doğu Teknik Üniversitesi ;EF ENG Production Engineer for Source CO2;Netherlands
+user673;ASML;Orta Doğu Teknik Üniversitesi ;EUV Competence Engineer;Netherlands
+user674;ASML;Orta Doğu Teknik Üniversitesi ;Domain Test Architect;Eindhoven, North Brabant, Netherlands
+user675;ASML;Istanbul Technical University;Connectivity Design Engineer;Eindhoven, North Brabant, Netherlands
+user676;ASML;Eindhoven University of Technology;Sr. Principal Architect;Eindhoven, North Brabant, Netherlands
+user677;ASML;Bilkent University;Domain Test Architect;Eindhoven, North Brabant, Netherlands
+user678;ASML;Orta Doğu Teknik Üniversitesi ;Handling & Transport Technology - Changing the world one nanometer;Eindhoven, North Brabant, Netherlands
+user679;Tesla;Özyeğin University;Controls Engineering Specialist;Berlin, Germany
+user680;ASML;Orta Doğu Teknik Üniversitesi ;E-Integr;Veldhoven, North Brabant, Netherlands
+user681;ASML;Orta Doğu Teknik Üniversitesi ;System Industrializ;Eindhoven, North Brabant, Netherlands
+user682;ASML;Orta Doğu Teknik Üniversitesi;Product Owner;Eindhoven, North Brabant, Netherlands
+user683;ASML;Bilkent Üniversitesi;Supplier Lead Auditor;Veldhoven, North Brabant, Netherlands
+user684;ASML;Karabük Üniversitesi;Flex Test Technician;El Cajon, California, United States
+user685;Airbus;ITU;Lead St;Filton, England, United Kingdom
+user686;ASML;Middle East Technical University;Technical Trainer;Eindhoven, North Brabant, Netherlands
+user687;ASML;Orta Doğu Teknik Üniversitesi;Mechanical Design Engineer;Netherlands
+user688;ASML;Sabanci University;Metrology Design Engineer;Eindhoven, North Brabant, Netherlands
+user689;ASML;Middle East Technical University;Project Manager | EIC WLP Mentor | HEU Consultant;Netherlands
+user690;ASML;Middle East Technical University;Requirements Engineering Expert;Netherlands
+user691;ASML;Technische Universiteit Eindhoven;Requirements Engineering Expert;Eindhoven, North Brabant, Netherlands
+user692;ASML;Universiteit Twente;Industriliz;Eindhoven, North Brabant, Netherlands
+user693;ASML;Delft University of Technology;Optical Sensing Engineer;Eindhoven, North Brabant, Netherlands
+user694;ASML;Orta Doğu Teknik Üniversitesi ;EUV System Qualific;Eindhoven, North Brabant, Netherlands
+user695;ASML;Middle East Technical University;Product Owner;Veldhoven, North Brabant, Netherlands
+user696;Thales;University of Melbourne;Master of EngMgt;Melbourne, Victoria, Australia
+user697;ASML;Karadeniz Technical University;System Industrializ;Nuenen, North Brabant, Netherlands
+user698;ASML;Massachusetts Institute of Technology;Source Architect | Changing the world one nanometer;Eindhoven, North Brabant, Netherlands
+user699;ASML;TOBB Ekonomi ve Teknoloji Üniversitesi;Industrializ;Eindhoven, North Brabant, Netherlands
+user700;ASML;University of Washington;Change Manager;Netherlands
